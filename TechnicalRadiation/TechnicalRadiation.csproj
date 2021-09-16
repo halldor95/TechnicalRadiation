@@ -5,6 +5,8 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <PackageReference Include="Microsoft.EntityFrameworkCore" Version="5.0.10" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore.Sqlite" Version="5.0.10" />
     <PackageReference Include="Swashbuckle.AspNetCore" Version="5.6.3" />
     <PackageReference Include="Newtonsoft.Json" Version="13.0.1" />
   </ItemGroup>
@@ -17,6 +19,7 @@
     <Folder Include="TechnicalRadiation.WebApi\Controllers\" />
     <Folder Include="TechnicalRadiation.Services\Implementations\" />
     <Folder Include="TechnicalRadiation.Services\Interfaces\" />
+    <Folder Include="TechnicalRadiation.Repositories\Entities\" />
   </ItemGroup>
   <ItemGroup>
     <None Remove="Repository\" />

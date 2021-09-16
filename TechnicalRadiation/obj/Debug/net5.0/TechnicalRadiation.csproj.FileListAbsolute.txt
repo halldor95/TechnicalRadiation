@@ -1,0 +1,7 @@
+/Users/egill/Projects/TechnicalRadiation/TechnicalRadiation/obj/Debug/net5.0/TechnicalRadiation.csprojAssemblyReference.cache
+/Users/egill/Projects/TechnicalRadiation/TechnicalRadiation/obj/Debug/net5.0/TechnicalRadiation.GeneratedMSBuildEditorConfig.editorconfig
+/Users/egill/Projects/TechnicalRadiation/TechnicalRadiation/obj/Debug/net5.0/TechnicalRadiation.AssemblyInfoInputs.cache
+/Users/egill/Projects/TechnicalRadiation/TechnicalRadiation/obj/Debug/net5.0/TechnicalRadiation.AssemblyInfo.cs
+/Users/egill/Projects/TechnicalRadiation/TechnicalRadiation/obj/Debug/net5.0/TechnicalRadiation.csproj.CoreCompileInputs.cache
+/Users/egill/Projects/TechnicalRadiation/TechnicalRadiation/obj/Debug/net5.0/TechnicalRadiation.MvcApplicationPartsAssemblyInfo.cs
+/Users/egill/Projects/TechnicalRadiation/TechnicalRadiation/obj/Debug/net5.0/TechnicalRadiation.MvcApplicationPartsAssemblyInfo.cache

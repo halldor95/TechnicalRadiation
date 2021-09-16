@@ -1,0 +1,31 @@
+﻿<Properties StartupConfiguration="{34BA0B09-DB87-4E1C-838C-C0DB73AC9B5F}|Default">
+  <MonoDevelop.Ide.ItemProperties.TechnicalRadiation PreferredExecutionTarget="/Applications/Safari.app" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="TechnicalRadiation/TechnicalRadiation.Repositories/population.sql">
+    <Files>
+      <File FileName="TechnicalRadiation/TechnicalRadiation.Repositories/Data/NewsDbContext.cs" Line="11" Column="1" />
+      <File FileName="TechnicalRadiation/TechnicalRadiation.WebApi/Startup.cs" Line="37" Column="40" />
+      <File FileName="TechnicalRadiation/TechnicalRadiation.WebApi/appsettings.json" Line="11" Column="28" />
+      <File FileName="TechnicalRadiation/TechnicalRadiation.Repositories/population.sql" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="TechnicalRadiation" expanded="True">
+            <Node name="TechnicalRadiation" expanded="True">
+              <Node name="TechnicalRadiation.Repositories" expanded="True">
+                <Node name="population.sql" selected="True" />
+              </Node>
+              <Node name="TechnicalRadiation.WebApi" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

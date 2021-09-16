@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "/Users/halldorholgersson/Desktop/RU/5.önn/Vefþ/TechnicalRadiation/TechnicalRadiation/TechnicalRadiation.csproj": {}
+    "/Users/egill/Projects/TechnicalRadiation/TechnicalRadiation/TechnicalRadiation.csproj": {}
   },
   "projects": {
-    "/Users/halldorholgersson/Desktop/RU/5.önn/Vefþ/TechnicalRadiation/TechnicalRadiation/TechnicalRadiation.csproj": {
+    "/Users/egill/Projects/TechnicalRadiation/TechnicalRadiation/TechnicalRadiation.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/halldorholgersson/Desktop/RU/5.önn/Vefþ/TechnicalRadiation/TechnicalRadiation/TechnicalRadiation.csproj",
+        "projectUniqueName": "/Users/egill/Projects/TechnicalRadiation/TechnicalRadiation/TechnicalRadiation.csproj",
         "projectName": "TechnicalRadiation",
-        "projectPath": "/Users/halldorholgersson/Desktop/RU/5.önn/Vefþ/TechnicalRadiation/TechnicalRadiation/TechnicalRadiation.csproj",
-        "packagesPath": "/Users/halldorholgersson/.nuget/packages/",
-        "outputPath": "/Users/halldorholgersson/Desktop/RU/5.önn/Vefþ/TechnicalRadiation/TechnicalRadiation/obj/",
+        "projectPath": "/Users/egill/Projects/TechnicalRadiation/TechnicalRadiation/TechnicalRadiation.csproj",
+        "packagesPath": "/Users/egill/.nuget/packages/",
+        "outputPath": "/Users/egill/Projects/TechnicalRadiation/TechnicalRadiation/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/Users/halldorholgersson/.config/NuGet/NuGet.Config"
+          "/Users/egill/.config/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net5.0"
@@ -38,6 +38,14 @@
         "net5.0": {
           "targetAlias": "net5.0",
           "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[5.0.10, )"
+            },
+            "Microsoft.EntityFrameworkCore.Sqlite": {
+              "target": "Package",
+              "version": "[5.0.10, )"
+            },
             "Newtonsoft.Json": {
               "target": "Package",
               "version": "[13.0.1, )"
@@ -65,7 +73,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/5.0.401/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/5.0.400/RuntimeIdentifierGraph.json"
         }
       }
     }
