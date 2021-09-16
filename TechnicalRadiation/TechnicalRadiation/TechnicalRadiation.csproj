@@ -1,0 +1,31 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>net5.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Swashbuckle.AspNetCore" Version="5.6.3" />
+    <PackageReference Include="Newtonsoft.Json" Version="13.0.1" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Folder Include="TechnicalRadiation.Models\" />
+    <Folder Include="TechnicalRadiation.Repositories\" />
+    <Folder Include="TechnicalRadiation.Services\" />
+    <Folder Include="TechnicalRadiation.WebApi\" />
+    <Folder Include="TechnicalRadiation.WebApi\Controllers\" />
+    <Folder Include="TechnicalRadiation.Services\Implementations\" />
+    <Folder Include="TechnicalRadiation.Services\Interfaces\" />
+    <Folder Include="TechnicalRadiation.Models\Dtos\" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Remove="Repository\" />
+    <None Remove="Services\" />
+    <None Remove="TechnicalRadiation.WebApi\" />
+    <None Remove="TechnicalRadiation.WebApi\Controllers\" />
+    <None Remove="TechnicalRadiation.Services\Implementations\" />
+    <None Remove="TechnicalRadiation.Services\Interfaces\" />
+    <None Remove="TechnicalRadiation.Models\Dtos\" />
+  </ItemGroup>
+</Project>
